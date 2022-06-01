@@ -1,1 +1,1 @@
-# Stock-Analysis
+## Tesla & GameStop Stock Performance Analysis
